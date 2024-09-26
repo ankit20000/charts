@@ -3,12 +3,12 @@ entries:
   ankitchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-26T13:54:38.927725+05:30"
+    created: "2024-09-27T01:22:59.751714+05:30"
     description: A Helm chart for Kubernetes
     digest: 55dd6290ad3a137adff434795920461e2e0cb65c2f4167f17cdb12519b652813
     name: ankitchart
     type: application
     urls:
-    - https://github.com/ankit20000/charts.git/ankitchart-0.1.0.tgz
+    - https://ankit20000.github.io/charts/ankitchart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-26T13:54:38.910584+05:30"
+generated: "2024-09-27T01:22:59.748282+05:30"
